@@ -1,0 +1,957 @@
+col_depto_amazonas:
+  label: División geografica de Amazonas Colombia
+  basename: col-depto-amazonas
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_antioquia:
+  label: División geografica de Antioquia Colombia
+  basename: col-depto-antioquia
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_arauca:
+  label: División geografica de Arauca Colombia
+  basename: col-depto-arauca
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_atlantico:
+  label: División geografica de Atlántico Colombia
+  basename: col-depto-atlantico
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_bogota:
+  label: División geografica de Bogotá Colombia
+  basename: col-depto-bogota
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_bolivar:
+  label: División geografica de Bolívar Colombia
+  basename: col-depto-bolivar
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_boyaca:
+  label: División geografica de Boyacá Colombia
+  basename: col-depto-boyaca
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_caldas:
+  label: División geografica de Caldas Colombia
+  basename: col-depto-caldas
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_caqueta:
+  label: División geografica de Caquetá Colombia
+  basename: col-depto-caqueta
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_casanare:
+  label: División geografica de Casanare Colombia
+  basename: col-depto-casanare
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_cauca:
+  label: División geografica de Cauca Colombia
+  basename: col-depto-cauca
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_cesar:
+  label: División geografica de Cesar Colombia
+  basename: col-depto-cesar
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_choco:
+  label: División geografica de Chocó Colombia
+  basename: col-depto-choco
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_cordoba:
+  label: División geografica de Córdoba Colombia
+  basename: col-depto-cordoba
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_cundinamarca:
+  label: División geografica de Cundinamarca Colombia
+  basename: col-depto-cundinamarca
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_guainia:
+  label: División geografica de Guainía Colombia
+  basename: col-depto-guainia
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_guaviare:
+  label: División geografica de Guaviare Colombia
+  basename: col-depto-guaviare
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_huila:
+  label: División geografica de Huila Colombia
+  basename: col-depto-huila
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_laguajira:
+  label: División geografica de La Guajira Colombia
+  basename: col-depto-laguajira
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_magdalena:
+  label: División geografica de Magdalena Colombia
+  basename: col-depto-magdalena
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_meta:
+  label: División geografica de Meta Colombia
+  basename: col-depto-meta
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_narino:
+  label: División geografica de Nariño Colombia
+  basename: col-depto-narino
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_nortedesantander:
+  label: División geografica de Norte de Santander Colombia
+  basename: col-depto-nortedesantander
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_putumayo:
+  label: División geografica de Putumayo Colombia
+  basename: col-depto-putumayo
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_quindio:
+  label: División geografica de Quindío Colombia
+  basename: col-depto-quindio
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_risaralda:
+  label: División geografica de Risaralda Colombia
+  basename: col-depto-risaralda
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_sanandresyprov:
+  label: División geografica de San Andrés y Providencia Colombia
+  basename: col-depto-sanandresyprov
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_santander:
+  label: División geografica de Santander Colombia
+  basename: col-depto-santander
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_sucre:
+  label: División geografica de Sucre Colombia
+  basename: col-depto-sucre
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_tolima:
+  label: División geografica de Tolima Colombia
+  basename: col-depto-tolima
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_valledelcauca:
+  label: División geografica de Valle del Cauca Colombia
+  basename: col-depto-valledelcauca
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_vaupes:
+  label: División geografica de Vaupés Colombia
+  basename: col-depto-vaupes
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_depto_vichada:
+  label: División geografica de Vichada Colombia
+  basename: col-depto-vichada
+  scope: departamento
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73
+      - 5.6
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0

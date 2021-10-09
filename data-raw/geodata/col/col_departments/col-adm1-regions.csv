@@ -1,0 +1,34 @@
+id,name,region
+5,ANTIOQUIA,Andina
+8,ATLÁNTICO,Caribe
+11,"BOGOTÁ, D. C.",Andina
+13,BOLÍVAR,Caribe
+15,BOYACÁ,Andina
+17,CALDAS,Andina
+18,CAQUETÁ,Amazonas
+19,CAUCA,Pacifico
+20,CESAR,Caribe
+23,CÓRDOBA,Caribe
+25,CUNDINAMARCA,Andina
+27,CHOCÓ,Pacifico
+41,HUILA,Andina
+44,LA GUAJIRA,Caribe
+47,MAGDALENA,Caribe
+50,META,Orinoquia
+52,NARIÑO,Pacifico
+54,NORTE DE SANTANDER,Andina
+63,QUINDÍO,Andina
+66,RISARALDA,Andina
+68,SANTANDER,Andina
+70,SUCRE,Caribe
+73,TOLIMA,Andina
+76,VALLE DEL CAUCA,Pacifico
+81,ARAUCA,Orinoquia
+85,CASANARE,Orinoquia
+86,PUTUMAYO,Amazonas
+88,"ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y",Caribe
+91,AMAZONAS,Amazonas
+94,GUAINÍA,Amazonas
+95,GUAVIARE,Amazonas
+97,VAUPÉS,Amazonas
+99,VICHADA,Orinoquia

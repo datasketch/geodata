@@ -1,0 +1,22 @@
+label: Colombia municipalities
+centroids: col-adm2-municipalities.csv
+altnames: col-adm2-municipalities-altnames.csv
+regions: col-adm2-municipalities-regions.csv
+topojson:
+  scope: mpio
+  geographyName: name
+  geographyId: id
+  path: col-adm2-municipalities.topojson
+projections:
+  mercator:
+    name: mercator
+    center: [-73.5, 4.2]
+    rotate: [0, 0]
+    scale: 1.8
+    translate: [0,0]
+  equirectangular:
+    name: mercator
+    center: [-73.5, 4.2]
+    rotate: [0, 0]
+    scale: 1.8
+    translate: [0,0]

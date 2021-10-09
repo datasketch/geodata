@@ -1,0 +1,20 @@
+label: Bogotá Districts
+centroids: bog-localidades.csv
+altnames: 
+regions: 
+topojson:
+  scope: localidades
+  geographyName: name
+  geographyId: id
+  path: bog-localidades.topojson
+projections:
+  mercator:
+    center: [-74.1, 4.55]
+    rotate: [0, 0]
+    scale: 50
+    translate: [0,0]
+  equirectangular:
+    center: [-74.1, 4.55]
+    rotate: [0, 0]
+    scale: 50
+    translate: [0,0]

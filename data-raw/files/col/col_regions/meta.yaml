@@ -1,0 +1,145 @@
+col_amazonas:
+  label: Región Amazonas
+  basename: col_dep_amazonia
+  scope: region
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_andina:
+  label: Región Andina
+  basename: col_dep_andina
+  scope: region
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_caribe:
+  label: Región Caribe
+  basename: col_dep_caribe
+  scope: region
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_orioquia:
+  label: Región Orinoquía
+  basename: col_dep_orinoquia
+  scope: region
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+col_pacifico:
+  label: Región Pacífico
+  basename: col_dep_pacifico
+  scope: region
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0
+    equirectangular:
+      center:
+      - -73.5
+      - 4.2
+      rotate:
+      - 0
+      - 0
+      scale: 1.8
+      translate:
+      - 0
+      - 0

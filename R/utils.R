@@ -1,4 +1,13 @@
+
+geodata_sys <- function(...){
+  system.file(..., package = "geodata")
+}
+
 which_in <- function (x, y) x[x %in% y]
+
+which_not_in <- function (x, y) x[!x %in% y]
+
+collapse_char <- function(x) paste0(x, collapse = ", ")
 
 noWrnMsg <- function(x){
   suppressWarnings(suppressMessages(x))

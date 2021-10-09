@@ -1,7 +1,7 @@
 Package: geodata
 Type: Package
 Title: geodata package for maps
-Version: 1.0.0
+Version: 1.1.0
 Date: 2017-07-26
 Author: Juan Pablo Marin Diaz
 Maintainer: Juan Pablo Marin Diaz <jpmarindiaz@gmail.com>
