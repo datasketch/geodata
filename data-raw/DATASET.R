@@ -11,11 +11,12 @@ dirs
 
 map_names <- basename(dirs)
 
-path <- dirs[1]
+path <- dirs[5]
 read_validate_meta(path)
 
 l <- map(dirs, function(x){
   ## Read and validate metadata
+  message(x)
   l <- read_validate_meta(x)
   l
 }) %>% purrr::set_names(map_names)

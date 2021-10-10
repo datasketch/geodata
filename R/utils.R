@@ -13,6 +13,21 @@ noWrnMsg <- function(x){
   suppressWarnings(suppressMessages(x))
 }
 
+leading_zeros <- function(x, n = 1){
+  if(!is.numeric(x)) x <- as.numeric(x)
+  sprintf(paste0("%0",n,"d"), x)
+}
+
+
+rename_dotdot <- function(x){
+  names(x) <- paste0("..gd_", names(x))
+  x
+}
+
+str_clean <- function(x){
+  x <- as.character(iconv(remove_accents(tolower(x)), to = "ASCII//TRANSLIT"))
+  tolower(x)
+}
 
 remove_accents <- function (string){
   accents <- "àèìòùÀÈÌÒÙáéíóúýÁÉÍÓÚÝäëïöüÄËÏÖÜâêîôûÂÊÎÔÛñÑç"

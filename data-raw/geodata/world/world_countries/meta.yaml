@@ -1,0 +1,23 @@
+label: World countries
+centroids: world_countries-centroids.csv
+altids: 
+altnames: world_countries-altnames.csv
+regions: 
+topojson:
+  scope: XXX
+  geographyName: name
+  geographyId: id
+  path: world_countries.topojson
+projections:
+  mercator:
+    name: mercator
+    center: [-90.30, 16.22]
+    rotate: [0, 0]
+    scale: 5.5
+    translate: [0,0]
+  equirectangular:
+    name: mercator
+    center: [-90.30, 16.22]
+    rotate: [0, 0]
+    scale: 5.5
+    translate: [0,0]
