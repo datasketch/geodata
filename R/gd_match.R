@@ -39,9 +39,14 @@ gd_match_names <- function(d, map_name = NULL, col = NULL){
   join_by <- "..gd_clean_name"
 
   codes0 <- gd_codes(map_name) %>% rename_dotdot()
-  # Add altnames if the exist
-  altnames <- gd_altnames(map_name) %>% purrr::set_names(names(codes0))
-  codes <- dplyr::bind_rows(codes0, altnames)
+  # Add altnames if they exist
+  altnames <- gd_altnames(map_name)
+  if(!is.null(altnames)){
+    altnames <- altnames %>% purrr::set_names(names(codes0))
+    codes <- dplyr::bind_rows(codes0, altnames)
+  } else{
+    codes <- codes0
+  }
   codes$..gd_clean_name <- str_clean(codes$..gd_name)
   codes <- codes %>% dplyr::distinct(..gd_id, ..gd_clean_name, .keep_all = TRUE)
 

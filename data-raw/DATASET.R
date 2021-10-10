@@ -24,3 +24,4 @@ l <- map(dirs, function(x){
 maps <- l
 pryr::object_size(maps)
 usethis::use_data(maps, internal = TRUE, overwrite = TRUE)
+

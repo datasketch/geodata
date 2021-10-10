@@ -10,9 +10,10 @@ test_that("Matching geocodes and geonames work",{
   gd_match_names(d, map_name = map_name)
 
 
-  #d <- data.frame(country = c("Cabo verde", "Congo (Kinshasa)",
-  #                            "Congo (Brazzaville)", "Eswatini","Holy See"))
-  #gd_match_codes(d, map_name = "world_countries", col = NULL)
+  map_name <- "world_countries"
+  d <- data.frame(country = c("Cabo verde", "Congo (Kinshasa)",
+                              "Congo (Brazzaville)", "Eswatini","Holy See"))
+  gd_match_names(d, map_name = map_name, col = NULL)
 
 
 

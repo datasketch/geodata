@@ -40,7 +40,7 @@ write_csv(c2, file.path(file_path, map_name, "aux/world_countries-codes-0.csv"))
 altnames1 <- c1 %>%
   mutate(name_list = strsplit(name, split = ",")) %>%
   unnest(cols = name_list) %>%
-  select(-name, altnames = name_list) %>% distinct()
+  select(-name, altname = name_list) %>% distinct()
 write_csv(altnames1, file.path(file_path, map_name,
                         "aux/world_countries-altnames-1.csv"))
 
