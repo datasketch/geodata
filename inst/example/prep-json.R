@@ -29,7 +29,9 @@ devtools::document()
 devtools::install()
 
 # now you can plot your map
-lfltmagic::lflt_choropleth_Gnm(map_name = "col_larg")
+library(lfltmagic)
+lfltmagic::lflt_choropleth_Gnm(map_name = "col_larg",
+                               data = data.frame(dd = "ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA", value = 10))
 
 
 

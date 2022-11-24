@@ -40,7 +40,7 @@ centroids_json <- function(map_name, write = TRUE, ext = "csv") {
     tidyr::unnest(centroids) %>%
     tidyr::separate(centroids, c("lon", "lat"), sep = " ") %>%
     st_drop_geometry()
-
+ df <- df %>% dplyr::distinct(id, .keep_all = T)
   if (!("name" %in% names(df))) message("geo information without name")
   if (!("name" %in% names(df))) return()
   if (length(unique(df$name)) != nrow(df)) warning("there are repeated geo names")
