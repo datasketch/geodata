@@ -38,3 +38,20 @@ col_municipalities:
       rotate: [0, 0]
       scale: 1.8
       translate: [0,0]
+col_larg:
+  label: Colombia with the largest San Andres
+  basename: col-departments
+  scope: colombia
+  geographyName: name
+  geographyId: id
+  projections:
+    mercator:
+      center: [-73.5, 4.2]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
+    equirectangular:
+      center: [-73.5, 4.2]
+      rotate: [0, 0]
+      scale: 1.8
+      translate: [0,0]
